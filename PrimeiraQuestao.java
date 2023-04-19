@@ -8,6 +8,8 @@ public class PrimeiraQuestao{
         System.out.println("qual sua idade");
         int idade = scanner.nextInt();
         System.out.println("ola " + nome + " sua idade é "+ idade);
+        //aaaaaaaaaaa
+        
         
     }
 }
